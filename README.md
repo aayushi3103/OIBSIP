@@ -6,7 +6,9 @@ their species, and here your task is to train a machine learning model that can 
 measurements of the iris species and classify them.
 
 You can download the data set from the link given below
+
 https://www.kaggle.com/datasets/saurabh00007/iriscsv
+
 
 TASK 2
 UNEMPLOYMENT ANALYSIS WITH PYTHON -
@@ -16,12 +18,12 @@ increase in the unemployment rate during Covid-19, so analyzing the unemployment
 can be a good data science project.
 
 You can download the data set from the link given below
+
 https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
+
 
 TASK 3 
 SALES PREDICTION USING PYTHON -
-
-Laptop with Browser Icon
 Sales prediction means predicting how much of a product people will buy based on factors
 such as the amount you spend to advertise your product, the segment of people you
 advertise for, or the platform you are advertising on about your product.
@@ -30,6 +32,7 @@ their future sales with every step they take to manipulate the cost of advertisi
 product. So let’s start the task of sales prediction with machine learning using Python.
 
 You can download the data set from the link given below
+
 https://www.kaggle.com/datasets/bumba5341/advertisingcsv
 
 
